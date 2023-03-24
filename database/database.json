@@ -1,0 +1,86 @@
+{
+  "allcommand": [
+    "Menu"
+  ],
+  "anonymous": [],
+  "blockcmd": [],
+  "banned": [],
+  "premium": [],
+  "claim": [],
+  "data": [
+    {
+      "name": "premium",
+      "id": []
+    },
+    {
+      "name": "commands",
+      "id": []
+    },
+    {
+      "name": "limit",
+      "id": []
+    }
+  ],
+  "sewa": [],
+  "antispam": [],
+  "dashboard": [
+    {
+      "cmd": "Menu",
+      "succes": 1,
+      "failed": 0
+    }
+  ],
+  "listerror": [],
+  "sticker": {},
+  "audio": {},
+  "hittoday": [
+    {
+      "id": "run",
+      "expired": 1679723012484,
+      "totalcmd": 1
+    }
+  ],
+  "clearchat": [],
+  "users": {
+    "6285325342577@s.whatsapp.net": {
+      "name": "audisw",
+      "id": "6285325342577",
+      "date": "24 Maret 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 1,
+      "balance": 1000,
+      "limit": 30,
+      "glimit": 30,
+      "serial": "XLT0",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    }
+  },
+  "chats": {},
+  "settings": {
+    "settingbot": {
+      "status": 1676348113853,
+      "setmenu": "document",
+      "docType": "docx",
+      "Qoted": "ftoko",
+      "autoBio": false,
+      "multi": true,
+      "prefix": "!",
+      "fake": "Aiya Botz",
+      "autoblockcmd": false,
+      "fake1": "Extream",
+      "replyType": "web",
+      "setwelcome": "type11",
+      "autoReport": true,
+      "autoLevel": true,
+      "autoSticker": false
+    }
+  },
+  "kickon": {},
+  "others": {}
+}
